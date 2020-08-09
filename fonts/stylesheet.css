@@ -1,8 +1,10 @@
 @font-face {
     font-family: 'quentinregular';
-    src: url('quentin-webfont.woff2') format('woff2'),
-         url('quentin-webfont.woff') format('woff');
+    src: url('https://sincerely-yrs.github.io/fonts/quentin-webfont.woff2') format('woff2'),
+         url('https://sincerely-yrs.github.io/fonts/quentin-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
 }
+
+
