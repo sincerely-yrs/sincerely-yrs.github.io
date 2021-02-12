@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'toppan';
+/*     src: url('/fonts/R/R.woff2') format('woff2'), */
+/*          url('/fonts/R/R.woff') format('woff'); */
+    src: url('https://sincerely-yrs.github.io/fonts/Toppan.woff2') format('woff2'),
+         url('https://sincerely-yrs.github.io/fonts/Toppan.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
